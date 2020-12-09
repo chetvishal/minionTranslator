@@ -227,7 +227,7 @@ textarea {
     margin: 1rem;
     padding: 1rem;
     display: block;
-    border: 3px solid black
+    border: 3px solid black;
 }
 
 #output {
